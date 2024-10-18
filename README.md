@@ -1,10 +1,10 @@
 ## Hi there 👋
 
-I am Marie !
+I am Marie !<br>
 
-💻 I'm currently working on a great project on Ruby On Rails
-🌱 I keep learning every day
-🛠️ Ruby On Rails, HTML, CSS / Bootstrap / Tailwind, Javascript / Ajax / Stimulus, API, Heroku, Jekyll, Git, GitHub, SQL / PostgreSQL
+💻 I'm currently working on a great project on Ruby On Rails<br>
+🌱 I keep learning every day<br>
+🛠️ Ruby On Rails, HTML, CSS / Bootstrap / Tailwind, Javascript / Ajax / Stimulus, API, Heroku, Jekyll, Git, GitHub, SQL / PostgreSQL<br><br>
 ✉️ Contact-me : mariedh.dev@gmail.com
 
 
