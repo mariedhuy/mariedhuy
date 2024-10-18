@@ -1,5 +1,13 @@
 ## Hi there 👋
 
+I am Marie !
+
+💻 I'm currently working on a great project on Ruby On Rails
+🌱 I keep learning every day
+🛠️ Ruby On Rails, HTML, CSS / Bootstrap / Tailwind, Javascript / Ajax / Stimulus, API, Heroku, Jekyll, Git, GitHub, SQL / PostgreSQL
+✉️ Contact-me : mariedh.dev@gmail.com
+
+
 <!--
 **mariedhuy/mariedhuy** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
